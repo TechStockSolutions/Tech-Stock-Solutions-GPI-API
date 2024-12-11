@@ -14,19 +14,20 @@ Projeto baseado no desenvolvimento de um produto para a ajuda deficientes necess
 # Projeto (API) 
 Criação de um produto para deficientes. 
 
-Sprint | Previsão | Status| Histórico|
+Sprint | Previsão | Status||
 |------|--------|------|--------|
-|Kick Off | 29/08/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 01| 24/09/2023 | concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 02| 15/10/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 03| 05/11/2023 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 04| 26/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 29/08/2023 | concluido|| 
+|Sprint 01| 24/09/2023 | concluido || 
+|Sprint 02| 15/10/2023 | concluido || 
+|Sprint 03| 05/11/2023 | concluido|| 
+|Sprint 04| 26/11/2023 | concluido ||
+|Feira de Soluções | 12/12/2023 | a fazer || 
 
 # Equipe
 
 <p align="center">
- <img src="https://github.com/Luizaadriele/API-GPI/blob/main/285696369-5207f78b-c20d-4f68-8533-6614e9a291cb.jpeg" width="100%"/>
+ <img width="668" alt="foto tech stock" src="https://github.com/user-attachments/assets/77d73b5e-a857-49f0-b5cc-f42d577df1ad">
+
 </p>
 
 # Objetivo do Projeto

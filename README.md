@@ -87,10 +87,10 @@ Sprint | Previsão | Status||
 # Autores
 | Função | Nome |   |
 | - | - | - |
-|Product Owner| Joelson Oliveira ||
-|Scrum Master| Luiza Pinheiro ||
-|Team Member| Alex Zanon ||
-|Team Member| Gustavo Muller ||
-|Team Member| Gustavo Muller ||
-|Team Member| Gustavo Muller ||
-|Team Member| Gustavo Muller ||
+|Product Owner| João Florindo ||
+|Scrum Master| Gustavo Dall´Oste ||
+|Team Member| Cauã Nunes ||
+|Team Member| Leandro Alves ||
+|Team Member| Luan Roberto ||
+|Team Member| Nicolas Taveira ||
+|Team Member| Rebecca Ribeiro||

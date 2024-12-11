@@ -39,13 +39,13 @@ Sprint | Previsão | Status||
 [![SPRINT 1](https://img.youtube.com/vi/vw3xnh3h-Xk/0.jpg)](https://youtu.be/vw3xnh3h-Xk)
 
 ## Sprint 2
-[![SPRINT 1](https://img.youtube.com/vi/erJ3ZEw7HgM/0.jpg)](https://youtu.be/erJ3ZEw7HgM)
+[https://youtu.be/MlYhT_I2Pk8?feature=shared]
 
 ## Sprint 3
-[![SPRINT 1](https://img.youtube.com/vi/H2dPf1Pj4T4/0.jpg)](https://youtu.be/H2dPf1Pj4T4)
+[https://youtu.be/Bqzb-5DgZDY?feature=shared]
 
 ## Sprint 4
-[![SPRINT 1](https://img.youtube.com/vi/Cs9EPahKbWs/0.jpg)](https://youtu.be/Cs9EPahKbWs)
+[https://youtu.be/gCB_jBZj6l0?feature=shared]
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -85,9 +85,12 @@ Sprint | Previsão | Status||
  
 
 # Autores
-| Função | Nome |  LinkedIn & GitHub |
+| Função | Nome |   |
 | - | - | - |
-|Product Owner| Joelson Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Luiza Pinheiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Alex Zanon | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Gustavo Muller | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Joelson Oliveira ||
+|Scrum Master| Luiza Pinheiro ||
+|Team Member| Alex Zanon ||
+|Team Member| Gustavo Muller ||
+|Team Member| Gustavo Muller ||
+|Team Member| Gustavo Muller ||
+|Team Member| Gustavo Muller ||

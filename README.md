@@ -31,7 +31,7 @@ Sprint | Previsão | Status||
 </p>
 
 # Objetivo do Projeto
->.
+>O objetivo de criar um produto para deficientes visuais é promover a **inclusão e acessibilidade**, permitindo que essas pessoas possam realizar atividades do cotidiano com maior autonomia, segurança e conforto. Esses produtos visam **facilitar a interação** com o ambiente e com a tecnologia, superando barreiras relacionadas à falta de visão. Além disso, buscam garantir o **direito à igualdade** e à participação plena na sociedade, respeitando a dignidade e as necessidades específicas dessa população.
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -57,13 +57,15 @@ Sprint | Previsão | Status||
 ## Tecnologias Utilizadas
 ### Produto 
 * Sprint 1
- > Análise de Swot
+ > Sobre o produto
 * Sprint 2
- > Curva ABC
+ > Pesquisa de mercado
 * Sprint 3
- > Previsão de Demanda
+ > Mapeamento conceitual
 * Sprint 4
- > Criação de um novo seguimento
+ > Detalhamento do produto
+
+
 
 ### Tecnológias Específicas/Apoio
 * PowerPoint
@@ -74,20 +76,20 @@ Sprint | Previsão | Status||
 * Canva
   
 ## Sprint 1 - Concepção
->Análise de Swot
+>Sobre o produto
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Curva ABC
+>Pesquisa de mercado
       
 ## Sprint 3 - Implementação
 >Mapeamento conceitual
       
 ## Sprint 4 - Operacionalização
->Criação de um novo seguimento
+>Detalhamento do produto
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Trabalho em grupo sempre buscando obter um resultado que satisfaz o cliente e com eficiência, sendo assim para criar um produto acessível para deficientes visuais, é essencial ter conhecimento sobre as necessidades específicas dessa população, como diferentes tipos de deficiência visual e as normas de acessibilidade. O design inclusivo deve priorizar usabilidade, feedback tátil e integração com tecnologias assistivas. A pesquisa com usuários deficientes visuais e o desenvolvimento iterativo são fundamentais para garantir a eficácia. Além disso, é importante considerar a legislação, direitos humanos e empatia no processo de criação.
 
 
  

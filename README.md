@@ -16,12 +16,12 @@ Criação de um produto para deficientes.
 
 Sprint | Previsão | Status||
 |------|--------|------|--------|
-|Kick Off | 29/08/2023 | concluido|| 
-|Sprint 01| 24/09/2023 | concluido || 
-|Sprint 02| 15/10/2023 | concluido || 
-|Sprint 03| 05/11/2023 | concluido|| 
-|Sprint 04| 26/11/2023 | concluido ||
-|Feira de Soluções | 12/12/2023 | a fazer || 
+|Kick Off | 29/08/2024 | concluido|| 
+|Sprint 01| 24/09/2024 | concluido || 
+|Sprint 02| 15/10/2024 | concluido || 
+|Sprint 03| 05/11/2024 | concluido|| 
+|Sprint 04| 26/11/2024 | concluido ||
+|Feira de Soluções | 12/12/2024 | a fazer || 
 
 # Equipe
 
